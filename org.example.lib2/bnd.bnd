@@ -1,0 +1,6 @@
+-buildpath: org.example.lib1; version=latest
+
+Bundle-Version: 0.0.0.${tstamp}
+
+Export-Package: org.example.lib2
+Private-Package: org.example.lib1
